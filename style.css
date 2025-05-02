@@ -1,0 +1,36 @@
+.button{
+    background-color: #1aac21; /* Instagram का pinkish color */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .insta-btn:hover {
+    background-color: #24dbdb; /* Hover effect */
+  }
+  .whatsapp{
+    background-color: #1aac21; /* Instagram का pinkish color */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .insta-btn:hover {
+    background-color: #24dbdb; /* Hover effect */
+  }
+  .email{
+    background-color: #1aac21; /* Instagram का pinkish color */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .insta-btn:hover {
+    background-color: #24dbdb; /* Hover effect */
+  }
